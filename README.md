@@ -13,4 +13,4 @@ This repo contains `assignment7.R`, my work on R generic functions and object sy
 Open `assignment7.R` in RStudio and run it from top to bottom. No extra packages are required.
 
 ## Blog post
-[Link to blog post]
+(https://adrielusf.blogspot.com/2026/10/assignment-7-exploring-rs.html)
